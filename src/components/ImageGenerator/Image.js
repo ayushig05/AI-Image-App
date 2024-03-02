@@ -73,8 +73,8 @@ const Image = () => {
         />
         <div
           className="btn"
-          onClick={ImageGenerator}>
-        
+          onClick={ImageGenerator}
+        >
           Generate
         </div>
       </div>
